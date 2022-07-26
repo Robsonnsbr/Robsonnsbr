@@ -21,7 +21,7 @@
 <div> 
   <a href="https://www.instagram.com/robsonnsbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- 	<a href="https://api.whatsapp.com/send?phone=5541995398003&text=Ol%C3%A1%2C%20Meu%20nome%20%C3%A9%20Robson%20Monteiro%2C%20Tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 	<!-- <a href="https://api.whatsapp.com/send?phone=5541995398003&text=Ol%C3%A1%2C%20Meu%20nome%20%C3%A9%20Robson%20Monteiro%2C%20Tudo%20bem%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> -->
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
@@ -29,3 +29,4 @@
 
    <a href="https://www.linkedin.com/in/robson-monteiro-97856b244" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
