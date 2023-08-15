@@ -1,4 +1,8 @@
 ## Hey yo what's up bro?
+
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
 <div align="center">
   <a href="https://github.com/Robsonnsbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robsonnsbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
