@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/Robsonnsbr">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Robsonnsbr&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Robsonnsbr&theme=react&hide_border=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonnsbr&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Robsonnsbr&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Robsonnsbr&theme=react&hide_border=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonnsbr&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 <div  align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
