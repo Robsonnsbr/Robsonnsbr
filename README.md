@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Robsonnsbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robsonnsbr&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=Robsonnsbr&theme=react&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Robsonnsbr&theme=react&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsonnsbr&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 </div>
