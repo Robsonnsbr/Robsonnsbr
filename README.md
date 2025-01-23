@@ -1,5 +1,7 @@
 ## Hey yo what's up bro?
 
+### Most of my projects are for clients, so they’re private, but I can show them to you if you’re interested.
+
 <div align="center">
   <a href="https://github.com/Robsonnsbr">
   <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Robsonnsbr&theme=react&show_icons=true&hide_border=true&count_private=true"/>
